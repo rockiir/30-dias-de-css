@@ -67,3 +67,15 @@ Dia 30 - Fogos de artificio
 
 - *Criar as camadas utilizando a tag `<span>`*
 - nth-child
+
+## Desafio dia 02 - Loader animado
+
+[![Dia 01](https://j.gifs.com/OMOREB.gif)](https://j.gifs.com/OMOREB.giff)
+
+[Meu codigo]()
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+- Animação
