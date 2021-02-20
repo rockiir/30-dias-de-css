@@ -72,6 +72,20 @@ Dia 30 - Fogos de artificio
 
 [![Dia 01](https://j.gifs.com/OMOREB.gif)](https://j.gifs.com/OMOREB.giff)
 
+[Meu codigo](https://github.com/rockiir/30-dias-de-css/tree/main/desafio%2030%20dias%20de%20css/Desafio%202%20-%20Loader%20animado)
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6769021369175818240/)
+
+##### O que eu aprendi
+
+- Animação
+
+
+
+## Desafio dia 03 - Mudança de cor de texto quando entra em outra div
+
+[![Dia 01]()](https://j.gifs.com/OMOREB.giff)
+
 [Meu codigo]()
 
 [Post LinkedIn]()
