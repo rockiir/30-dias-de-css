@@ -93,3 +93,4 @@ Dia 30 - Fogos de artificio
 ##### O que eu aprendi
 
 - Animação
+- white-space
