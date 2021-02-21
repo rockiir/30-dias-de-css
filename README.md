@@ -84,11 +84,11 @@ Dia 30 - Fogos de artificio
 
 ## Desafio dia 03 - Mudança de cor de texto quando entra em outra div
 
-[![Dia 01]()](https://j.gifs.com/OMOREB.giff)
+[![Dia 01]()](https://media-exp1.licdn.com/dms/image/C4D22AQFDwcU8fhfHXQ/feedshare-shrink_2048_1536/0/1613951522682?e=1616630400&v=beta&t=sKD2Ec_YpCLIf6g3i0Xqg8HKyqgY2PqhfWLxpl7lwRM)
 
 [Meu codigo]()
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/raquel-matos-mauricio_30diasdecss-devs-css-activity-6769403350577364992-cs3k)
 
 ##### O que eu aprendi
 
