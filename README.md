@@ -84,16 +84,21 @@ Dia 30 -
 
 ## Desafio dia 03 - Mudança de cor de texto quando entra em outra div
 
+<<<<<<< HEAD
 [![Dia 01](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 3 - Mudança de cor de texto quando entra em outra div\wVOvDM.gif)](https://j.gifs.com/OMOREB.giff)
+=======
+[![Dia 01]()](https://media-exp1.licdn.com/dms/image/C4D22AQFDwcU8fhfHXQ/feedshare-shrink_2048_1536/0/1613951522682?e=1616630400&v=beta&t=sKD2Ec_YpCLIf6g3i0Xqg8HKyqgY2PqhfWLxpl7lwRM)
+>>>>>>> 4c3f234bee1f8a7cc2ddf131e7c9aa70438b4ea0
 
 [Meu codigo]()
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/raquel-matos-mauricio_30diasdecss-devs-css-activity-6769403350577364992-cs3k)
 
 ##### O que eu aprendi
 
 - Animação
 - white-space
+<<<<<<< HEAD
 
 ## Desafio dia 04- Glassmorphism
 
@@ -150,3 +155,5 @@ Dia 30 -
 
 
 
+=======
+>>>>>>> 4c3f234bee1f8a7cc2ddf131e7c9aa70438b4ea0
