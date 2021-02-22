@@ -140,7 +140,7 @@ Dia 30 -
 
 ## Desafio dia 07 - Water Wave Text
 
-[![Dia 01](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 7 - Text water wave\yo0WDE.gif)](https://j.gifs.com/OMOREB.giff)
+![Dia7](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 7 - Text water wave\yo0WDE.gif)
 
 [Meu codigo]()
 
