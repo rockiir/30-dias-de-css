@@ -111,7 +111,7 @@ Dia 30 -
 
 ## Desafio dia 05 - Loading Wave
 
-[![Dia 01](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 5 - Loading wave\WLZA84.gif)](https://j.gifs.com/OMOREB.giff)
+[![Dia 05](https://github.com/rockiir/30-dias-de-css/blob/main/desafio%2030%20dias%20de%20css/Desafio%205%20-%20Loading%20wave/WLZA84.gif)]
 
 [Meu codigo]()
 
@@ -123,7 +123,7 @@ Dia 30 -
 
 ## Desafio dia 06 - Background com efeitos Hover
 
-[![Dia 01](C:\Users\Raquel de matos\Downloads\r8JW72.gif)](https://j.gifs.com/OMOREB.giff)
+[![Dia 06](https://github.com/rockiir/30-dias-de-css/blob/main/desafio%2030%20dias%20de%20css/Desafio%206%20-%20Background%20com%20efeitos%20Hover/r8JW72.gif)](https://j.gifs.com/OMOREB.giff)
 
 [Meu codigo]()
 
