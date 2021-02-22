@@ -131,5 +131,21 @@ Dia 30 -
 
 ##### O que eu aprendi
 
-- 
+- Var
+
+## Desafio dia 07 - Water Wave Text
+
+[![Dia 01](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 7 - Text water wave\yo0WDE.gif)](https://j.gifs.com/OMOREB.giff)
+
+[Meu codigo]()
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+- Polygon
+
+
+
+
 
