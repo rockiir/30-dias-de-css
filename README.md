@@ -144,6 +144,7 @@ Dia 30 -
 ##### O que eu aprendi
 
 - Polygon
+- https://bennettfeely.com/clippy/
 
 
 
