@@ -84,7 +84,7 @@ Dia 30 -
 
 ## Desafio dia 03 - Mudança de cor de texto quando entra em outra div
 
-![](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 3 - Mudança de cor de texto quando entra em outra div\wVOvDM.gif)
+![dia 3](https://github.com/rockiir/30-dias-de-css/blob/main/desafio%2030%20dias%20de%20css/Desafio%203%20-%20Mudan%C3%A7a%20de%20cor%20de%20texto%20quando%20entra%20em%20outra%20div/wVOvDM.gif)
 
 [Meu codigo]()
 
@@ -97,7 +97,7 @@ Dia 30 -
 
 ## Desafio dia 04- Glassmorphism
 
-[![Dia 01](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 4 -Glassmorphism\1W2NWZ.gif)](https://j.gifs.com/OMOREB.giff)
+[![Dia 04](https://github.com/rockiir/30-dias-de-css/blob/main/desafio%2030%20dias%20de%20css/Desafio%204%20-Glassmorphism/1W2NWZ.gif)]
 
 [Meu codigo]()
 
