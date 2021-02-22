@@ -135,7 +135,7 @@ Dia 30 -
 
 ## Desafio dia 07 - Water Wave Text
 
-![Dia7](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 7 - Text water wave\yo0WDE.gif)
+![Dia7](https://github.com/rockiir/30-dias-de-css/blob/main/desafio%2030%20dias%20de%20css/Desafio%207%20-%20Text%20water%20wave/yo0WDE.gif)
 
 [Meu codigo]()
 
