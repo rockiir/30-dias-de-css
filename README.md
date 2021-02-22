@@ -29,7 +29,7 @@ Dia 02 - Loader animado
 Dia 03 - Mudança de cor de texto quando entra em outra div
 Dia 04 - Glassmorphism
 Dia 05 - Loading Wave
-Dia 06 - 
+Dia 06 - Background com efeitos Hover
 Dia 07 - 
 Dia 08 - 
 Dia 09 - 
@@ -120,4 +120,16 @@ Dia 30 -
 ##### O que eu aprendi
 
 - ::befor  e ::after
+
+## Desafio dia 06 - Background com efeitos Hover
+
+[![Dia 01](C:\Users\Raquel de matos\Downloads\r8JW72.gif)](https://j.gifs.com/OMOREB.giff)
+
+[Meu codigo]()
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+- 
 
