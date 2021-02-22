@@ -149,11 +149,4 @@ Dia 30 -
 ##### O que eu aprendi
 
 - Polygon
-- https://bennettfeely.com/clippy/
-
-
-
-
-
-=======
->>>>>>> 4c3f234bee1f8a7cc2ddf131e7c9aa70438b4ea0
+- https://bennettfeely.com/clippy
