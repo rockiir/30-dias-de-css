@@ -27,8 +27,8 @@ Como regra individual, estabeleço que  ao não concluir o projeto, devo no dia 
 Dia 01 - Ícone de mídia social em camadas
 Dia 02 - Loader animado
 Dia 03 - Mudança de cor de texto quando entra em outra div
-Dia 04 - 
-Dia 05 - 
+Dia 04 - Glassmorphism
+Dia 05 - Loading Wave
 Dia 06 - 
 Dia 07 - 
 Dia 08 - 
@@ -84,7 +84,7 @@ Dia 30 -
 
 ## Desafio dia 03 - Mudança de cor de texto quando entra em outra div
 
-[![Dia 01]()](https://j.gifs.com/OMOREB.giff)
+[![Dia 01](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 3 - Mudança de cor de texto quando entra em outra div\wVOvDM.gif)](https://j.gifs.com/OMOREB.giff)
 
 [Meu codigo]()
 
@@ -94,3 +94,30 @@ Dia 30 -
 
 - Animação
 - white-space
+
+## Desafio dia 04- Glassmorphism
+
+[![Dia 01](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 4 -Glassmorphism\1W2NWZ.gif)](https://j.gifs.com/OMOREB.giff)
+
+[Meu codigo]()
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+- Animação
+
+
+
+## Desafio dia 05 - Loading Wave
+
+[![Dia 01](C:\Users\Raquel de matos\Documents\github\30-dias-de-css\desafio 30 dias de css\Desafio 5 - Loading wave\WLZA84.gif)](https://j.gifs.com/OMOREB.giff)
+
+[Meu codigo]()
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+- ::befor  e ::after
+
