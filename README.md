@@ -145,3 +145,18 @@ Dia 30 -
 
 - Polygon
 - https://bennettfeely.com/clippy
+
+
+
+## Desafio dia 08 - Animated Background
+
+![Dia8]()
+
+[Meu codigo]()
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+- particles
+- glaussian
