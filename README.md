@@ -150,7 +150,9 @@ Dia 30 -
 
 ## Desafio dia 08 - Animated Background
 
-![Dia8]()
+![Dia8](https://github.com/rockiir/30-dias-de-css/blob/main/desafio%2030%20dias%20de%20css/Desafio%208%20-Animated%20Background/ANwGXP.gif)
+
+
 
 [Meu codigo]()
 
